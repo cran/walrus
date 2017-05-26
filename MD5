@@ -1,0 +1,17 @@
+5938980c235d55a25902a8226ef54e28 *DESCRIPTION
+3e230381532b218ab116e54ee61271f9 *NAMESPACE
+a2c04abd610698719bb4c3803dc8de32 *R/ranova.b.R
+f9122ac6978a5ab6740b209021dfc147 *R/ranova.h.R
+713813c3a0118621d0ad591ebf1eef4a *R/rdesc.b.R
+c21be4bb1dd9e07a05866b61fff058c3 *R/rdesc.h.R
+6d97f0eb4901d323134d742b734cf501 *R/rplots.b.R
+14ad323ad683781e6bdfc5471b93c820 *R/rplots.h.R
+b2aa17051ddcf3a74b7eb782a2f2af5f *R/rttestis.b.R
+610397d3fcd330caebb5ec2c2f930aca *R/rttestis.h.R
+90318ee7337cb2463cce6163e175e180 *R/rttestps.b.R
+50400f9a509aaa54da09f56febec4a88 *R/rttestps.h.R
+f5ec578aa779d6ff8f95b4cccc891818 *man/ranova.Rd
+0612bb6e157bff18401496290d6272c7 *man/rdesc.Rd
+00f12935ae2f3dc01cc4555901d7c703 *man/rplots.Rd
+34079e84ff0eb7c146b6ee66d548640c *man/rttestIS.Rd
+ccff65a79e0b4c106daaeedfe0c37dc8 *man/rttestPS.Rd
