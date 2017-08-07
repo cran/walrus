@@ -38,13 +38,13 @@ samples to use when using the bootstrap method}
 \item{md}{\code{TRUE} or \code{FALSE} (default), provide the mean 
 difference}
 
-\item{ci}{\code{TRUE} or \code{FALSE} (default), provide a 95% confidence 
+\item{ci}{\code{TRUE} or \code{FALSE} (default), provide a 95\% confidence 
 interval on the mean difference}
 
 \item{es}{\code{TRUE} or \code{FALSE} (default), provide the effect-size}
 
-\item{esci}{\code{TRUE} or \code{FALSE} (default), provide a 95% confidence 
-interval on the effect-size}
+\item{esci}{\code{TRUE} or \code{FALSE} (default), provide a 95\% 
+confidence interval on the effect-size}
 }
 \value{
 A results object containing:
@@ -73,16 +73,16 @@ rttestIS(SpainGermany,
          yuen = TRUE,
          mest = TRUE)
 
-# 
+#
 #  ROBUST INDEPENDENT SAMPLES T-TEST
-# 
-#  Robust Independent Samples T-Test                        
+#
+#  Robust Independent Samples T-Test
 #  ---------------------------------------------------------
-#                                  t         df      p     
-#  --------------------------------------------------------- 
-#    GoalsScored    Yuen's test     0.297    17.3    0.770 
-#                   M-estimator    -0.933            0.993 
+#                                  t         df      p
 #  ---------------------------------------------------------
-# 
+#    GoalsScored    Yuen's test     0.297    17.3    0.770
+#                   M-estimator    -0.933            0.993
+#  ---------------------------------------------------------
+#
 
 }
