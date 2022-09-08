@@ -1,4 +1,4 @@
-aef20a4be44048b9983e711142ef6901 *DESCRIPTION
+59959b689562cb0f5ad5611dc2ebfe33 *DESCRIPTION
 a6037921162e3d7d0177543f25375f83 *NAMESPACE
 1ffcb593a6ffb0c13f3a82b7af4ea3c5 *R/00jmv.R
 a2c04abd610698719bb4c3803dc8de32 *R/ranova.b.R
@@ -11,12 +11,12 @@ b2aa17051ddcf3a74b7eb782a2f2af5f *R/rttestis.b.R
 de95270f801c2781614e63700a74ff7a *R/rttestis.h.R
 90318ee7337cb2463cce6163e175e180 *R/rttestps.b.R
 04edeaa866cb7aabb6c9c48757194daa *R/rttestps.h.R
-726c9fe64bba20d4664d8987a59bac0e *R/walrus.R
+a2ec3a8bc6daab222c6faab8b73eaa65 *R/walrus.R
 22c5ee349716964c189c23c11a521d65 *man/figures/walrus.pdf
 87b573b413220e3757e18863f5fa7772 *man/figures/walrus.svg
-d4dba0cfdd44989a3b285be5861dd713 *man/ranova.Rd
-de7c2216693c247ca3ade1c664a7a2a8 *man/rdesc.Rd
-fb2794f639d7c61498977cd5e9b14ba4 *man/rplots.Rd
-5372fec8141f8d420736fb3ef005ee29 *man/rttestIS.Rd
+1fd2742602950f644f114bb20da6f8b7 *man/ranova.Rd
+08b61b6def77d56aaa58e7503346abd8 *man/rdesc.Rd
+b52665c04cc5302afaf301f8a2c24a2d *man/rplots.Rd
+3c9b787a435a3817b07dd996a9f12544 *man/rttestIS.Rd
 ed2463976fd74c5cb272a9f61aa1a32b *man/rttestPS.Rd
-16fd077248f8a325b0333ea1e6429671 *man/walrus-package.Rd
+b1e790f6a16b2a91304bedfac9139593 *man/walrus-package.Rd
